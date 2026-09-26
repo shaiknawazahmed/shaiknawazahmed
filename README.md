@@ -2,28 +2,29 @@
 
 ### Aspiring Junior Data Analyst
 
-I'm currently building my skills in data analysis through hands-on projects and practical learning.
+I'm building practical skills in data analysis through hands-on projects and real-world datasets.
 
 ## 🛠️ Skills
 
-- Excel
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- SQL — Currently Learning
- ## 📊 Excel Data Analysis Project
+* Excel
+* Data Analysis
+* Data Cleaning
+* Data Visualization
+* SQL — Currently Learning
 
-I completed a practical sales data analysis project using Excel.
+## 📊 Excel Sales Data Analysis Project
 
-### What I worked on
+A practical sales data analysis project completed using Microsoft Excel.
+
+### What I Worked On
 
 * Data cleaning and preparation
 * Excel formulas and functions
 * IF, COUNTIF and SUMIF
 * VLOOKUP, XLOOKUP and IFERROR
-* Conditional Formatting
 * Sorting and Filtering
 * Excel Tables
+* Conditional Formatting
 * Data Validation
 * Freeze Panes
 * PivotTables
@@ -32,22 +33,20 @@ I completed a practical sales data analysis project using Excel.
 
 ### Key Results
 
-* Total Sales: ₹2,15,000
-* Average Sales: ₹21,500
-* Electronics Sales: ₹1,30,000
-* Furniture Sales: ₹85,000
-* Highest Individual Sale: Laptop — ₹55,000
-* Lowest Individual Sale: Mouse — ₹6,000
-## 🎯 Career Goal
+| Metric                  |    Result |
+| ----------------------- | --------: |
+| Total Sales             | ₹2,15,000 |
+| Average Sales           |   ₹21,500 |
+| Electronics Sales       | ₹1,30,000 |
+| Furniture Sales         |   ₹85,000 |
+| Highest Individual Sale |   ₹55,000 |
+| Lowest Individual Sale  |    ₹6,000 |
 
-My goal is to build strong practical skills and become a Junior Data Analyst.
+### Key Insights
 
-I'm currently focusing on Excel and will continue learning SQL, Power BI, statistics, and real-world data analysis.
+* Electronics generated higher total sales than Furniture.
+* Laptop had the highest individual sale.
+* Mouse had the lowest individual sale.
+* PivotTables and charts were used to summarize and visualize the sales data.
 
-## 📚 Currently Learning
-
-**Next:** SQL
-
----
-
-*This profile represents my self-directed learning journey and practical projects.*
+## 🎯 Career
