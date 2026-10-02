@@ -2,34 +2,36 @@
 
 ### Aspiring Junior Data Analyst
 
-I'm building practical skills in data analysis through hands-on projects and real-world datasets.
+I am building practical data analytics skills through structured learning, hands-on projects, and real-world datasets. My current focus is developing strong foundations in **Excel, SQL, and data analysis**.
 
 ## 🛠️ Skills
 
-* Excel
-* Data Analysis
+* **Excel & Data Analytics** — Completed
+* **SQL & Data Analytics** — Completed
 * Data Cleaning
+* Data Analysis
 * Data Visualization
-* SQL — Currently Learning
+* Business Insights
+* Portfolio Development
 
 ## 📊 Excel Sales Data Analysis Project
 
-A practical sales data analysis project completed using Microsoft Excel.
+A practical sales analysis project developed using Microsoft Excel to clean, analyze, summarize, and visualize sales data.
 
-### What I Worked On
+### Key Skills Applied
 
 * Data cleaning and preparation
 * Excel formulas and functions
-* IF, COUNTIF and SUMIF
-* VLOOKUP, XLOOKUP and IFERROR
+* IF, COUNTIF, and SUMIF
+* VLOOKUP, XLOOKUP, and IFERROR
 * Sorting and Filtering
 * Excel Tables
 * Conditional Formatting
 * Data Validation
 * Freeze Panes
 * PivotTables
-* Charts and data visualization
-* Basic business insights
+* Charts and Data Visualization
+* Basic Business Insights
 
 ### Key Results
 
@@ -45,8 +47,29 @@ A practical sales data analysis project completed using Microsoft Excel.
 ### Key Insights
 
 * Electronics generated higher total sales than Furniture.
-* Laptop had the highest individual sale.
-* Mouse had the lowest individual sale.
-* PivotTables and charts were used to summarize and visualize the sales data.
+* Laptop recorded the highest individual sale.
+* Mouse recorded the lowest individual sale.
+* PivotTables and charts were used to summarize and visualize sales performance.
 
-## 🎯 Career
+## 💾 SQL & Data Analytics
+
+Completed core SQL and data analysis concepts, including:
+
+* SELECT, FROM, and WHERE
+* AND, OR, and comparison operators
+* ORDER BY and LIMIT
+* Aggregate Functions
+* GROUP BY and HAVING
+* INNER JOIN, LEFT JOIN, and RIGHT JOIN
+* Multiple-table JOINs
+* Query-based data analysis and problem solving
+
+### Current Focus
+
+* Building SQL Data Analytics Projects
+* Developing a practical Data Analyst portfolio
+* Preparing for a Junior Data Analyst career
+
+## 🎯 Career Goal
+
+To build strong practical expertise in data analytics and begin my career as a **Junior Data Analyst**.
