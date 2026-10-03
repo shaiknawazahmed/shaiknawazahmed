@@ -150,7 +150,35 @@ A practical SQL project analyzing e-commerce sales data to understand sales perf
 - `project1_queries.sql` — SQL analysis queries
 
 ---
+## 2. Employee Performance Analysis
 
+A practical SQL project analyzing employee performance, sales, ratings, departments, and targets.
+
+### Database Tables
+- EMPLOYEES — Employee ID, Name, Department, City
+- PERFORMANCE — Performance ID, Employee ID, Month, Sales, Rating
+- DEPARTMENTS — Department, Target
+
+### SQL Concepts Applied
+- SELECT
+- SUM()
+- AVG()
+- MAX()
+- MIN()
+- COUNT()
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT
+- INNER JOIN
+- Multiple-table JOINs
+- Data Aggregation
+- Business-focused SQL Analysis
+
+### Project Files
+- `SQL 2.db` — SQLite database
+- `project2_queries.sql` — SQL analysis queries
 # 🎯 Career Goal
 
 My goal is to build strong practical expertise in data analytics and begin my career as a **Junior Data Analyst**.
