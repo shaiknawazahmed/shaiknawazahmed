@@ -207,7 +207,92 @@ A practical SQL project analyzing employee performance, monthly sales, ratings, 
 
 ---
 
-# 🎯 Career Goal
+## 4. Business & Marketing Sales Analysis
+
+A practical SQL project focused on analyzing business sales, customer behavior, product performance, and marketing campaign effectiveness using a relational database.
+
+### Database Tables
+
+**CUSTOMERS**
+- Customer ID
+- Customer Name
+- City
+- Customer Type
+
+**PRODUCTS**
+- Product ID
+- Product Name
+- Category
+- Price
+
+**CAMPAIGNS**
+- Campaign ID
+- Campaign Name
+- Channel
+- Budget
+
+**SALES**
+- Sale ID
+- Customer ID
+- Product ID
+- Campaign ID
+- Quantity
+- Sales Amount
+- Sale Date
+
+### SQL Concepts Applied
+
+- SELECT
+- WHERE
+- SUM()
+- AVG()
+- MAX()
+- MIN()
+- COUNT()
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT
+- INNER JOIN
+- Multiple-table JOINs
+- Data Filtering
+- Data Aggregation
+- Monthly Sales Analysis
+- Business-focused SQL Analysis
+
+### Key Analysis
+
+- Analyzed overall sales performance.
+- Analyzed product-wise and category-wise sales.
+- Evaluated customer-wise and city-wise sales.
+- Compared Regular and Premium customer performance.
+- Analyzed campaign-wise and channel-wise sales.
+- Compared campaign budgets with generated sales.
+- Analyzed monthly sales performance.
+- Identified top-performing customers, products, and campaigns.
+
+### Key Results
+
+- **Total Sales:** ₹6,25,500
+- **Average Sale:** ₹31,275
+- **Highest Sale:** ₹1,00,000
+- **Lowest Sale:** ₹7,500
+- **Total Sales Transactions:** 20
+- **Total Quantity Sold:** 32
+
+### Key Insights
+
+- Customer, product, and campaign data can be combined to evaluate overall business performance.
+- Customer segmentation helps compare purchasing behavior across customer types.
+- Campaign and channel analysis helps evaluate marketing performance.
+- Monthly sales analysis helps identify changes in business performance over time.
+- SQL aggregation and JOINs help transform raw business data into actionable insights.
+
+### Project Files
+
+- `SQL_Project_3.db` — SQLite database
+- `project3_queries.sql` — SQL analysis queries
+- # 🎯 Career Goal
 
 To become a **Junior Data Analyst** by building strong technical skills, completing practical projects, and developing the ability to turn raw data into meaningful business insights.
 
