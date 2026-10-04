@@ -1,311 +1,218 @@
-# Hi, I'm Shaik Nawaz Ahmed 👋
+# 👋 Hi, I'm Shaik Nawaz Ahmed
 
-## Aspiring Junior Data Analyst
+## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Business Analytics
 
-I am building practical Data Analytics skills through structured learning, hands-on projects, and real-world datasets.
+> **Turning raw data into meaningful insights that support better business decisions.**
 
-My current focus is developing strong foundations in **Excel, SQL, Data Analysis, Data Visualization, and Business Insights**.
+I am building practical Data Analytics skills through hands-on projects, structured learning, and real-world datasets.
+
+My focus is on developing strong analytical thinking and practical experience with **Excel, SQL, Data Analysis, Data Visualization, and Business Insights**.
 
 ---
 
 ## 🛠️ Skills
 
 ### 📊 Data Analytics
-- Data Cleaning
+- Data Cleaning & Preparation
 - Data Analysis
 - Business Insights
-- Data Visualization
+- KPI Analysis
+- Trend & Performance Analysis
 - Problem Solving
 
 ### 📗 Excel
+- Excel Tables
+- Data Cleaning
+- Sorting & Filtering
 - Excel Formulas & Functions
-- SUM, AVERAGE, MIN, MAX, COUNT
 - IF, COUNTIF, SUMIF
 - VLOOKUP, XLOOKUP, IFERROR
-- Sorting & Filtering
-- Excel Tables
 - Conditional Formatting
 - Data Validation
 - PivotTables
 - Charts & Data Visualization
 
 ### 🗄️ SQL
-- SELECT, FROM, WHERE
-- AND / OR
-- Comparison Operators
-- ORDER BY
-- LIMIT
+- SELECT & WHERE
+- Filtering & Sorting
 - Aggregate Functions
-- GROUP BY
-- HAVING
-- INNER JOIN
-- Multiple-table JOINs
-- Data Filtering
-- Data Aggregation
-- Business-focused SQL Analysis
+- GROUP BY & HAVING
+- JOINs
+- Subqueries
+- Business Analysis Queries
+- Sales & Performance Analysis
 
 ---
 
-# 📂 Projects
+# 📂 Portfolio Projects
 
-## 1. Excel Sales Data Analysis
+## 01 — 📊 Excel Sales Data Analysis
 
-A practical Excel project focused on analyzing sales data and generating meaningful business insights.
+**Business Focus:** Sales performance and product/category analysis using Excel.
 
-### Key Analysis
-- Calculated total and average sales
-- Identified highest and lowest sales
-- Analyzed category-wise sales
-- Applied formulas and functions
-- Used sorting and filtering
-- Created PivotTables and charts
-- Applied Conditional Formatting
-- Used Data Validation
-- Generated business insights from sales data
+### Analysis Performed
+- Sales performance analysis
+- Product-level analysis
+- Category comparison
+- PivotTable analysis
+- Business insights generation
+- Data visualization
 
 ### Key Results
-- **Total Sales:** ₹2,15,000
-- **Average Sales:** ₹21,500
-- **Electronics Sales:** ₹1,30,000
-- **Furniture Sales:** ₹85,000
-- **Highest Individual Sale:** ₹55,000
-- **Lowest Individual Sale:** ₹6,000
+| Metric | Result |
+|---|---:|
+| Total Sales | ₹2,15,000 |
+| Average Sales | ₹21,500 |
+| Electronics Sales | ₹1,30,000 |
+| Furniture Sales | ₹85,000 |
+| Highest Individual Sale | ₹55,000 |
+| Lowest Individual Sale | ₹6,000 |
 
-### Skills Used
-Excel, Data Cleaning, Data Analysis, Formulas & Functions, PivotTables, Charts, Data Visualization
+### 💡 Business Insights
+- Electronics generated higher sales than Furniture.
+- Laptop recorded the highest individual sale at **₹55,000**.
+- PivotTable analysis provided a clear category-level view of sales performance.
+
+**Tools:** Excel • PivotTables • Formulas • Charts • Data Analysis
 
 ---
 
-## 2. SQL E-Commerce Sales Analysis
+## 02 — 🛒 SQL E-Commerce Sales Analysis
 
-A practical SQL project analyzing customers, products, orders, categories, and sales performance using a relational database.
+**Business Focus:** Customer, product, category, and sales performance analysis using SQL.
 
-### Database Tables
-
-**CUSTOMERS**
-- Customer ID
-- Name
-- City
-
-**PRODUCTS**
-- Product ID
-- Product Name
-- Category
-- Price
-
-**ORDERS**
-- Order ID
-- Customer ID
-- Product ID
-- Quantity
-- Sales
-
-### SQL Concepts Applied
-- SELECT
-- WHERE
-- AND / OR
-- SUM()
-- AVG()
-- MAX()
-- MIN()
-- COUNT()
-- GROUP BY
-- HAVING
-- ORDER BY
-- LIMIT
-- INNER JOIN
-- Multiple-table JOINs
-- Data Filtering
-- Data Aggregation
-- Business-focused SQL Analysis
+### Analysis Performed
+- Total and average sales analysis
+- Customer-wise sales
+- Category-wise sales
+- Product performance
+- Top customer and product identification
+- Sales filtering and ranking
+- Multi-table JOIN analysis
 
 ### Key Results
-- **Total Sales:** ₹2,73,000
-- **Average Sales:** ₹27,300
-- **Highest Sale:** ₹1,00,000
-- **Lowest Sale:** ₹2,000
-- **Total Orders:** 10
-- **Electronics Sales:** ₹2,20,000
-- **Furniture Sales:** ₹53,000
-- **Top Customer:** Priya — ₹1,08,000
-- **Top Product:** Laptop — ₹1,50,000
-- **Top Category:** Electronics — ₹2,20,000
+| Metric | Result |
+|---|---:|
+| Total Sales | ₹2,73,000 |
+| Average Sale | ₹27,300 |
+| Highest Sale | ₹1,00,000 |
+| Lowest Sale | ₹2,000 |
+| Total Orders | 10 |
+| Top Customer | Priya — ₹1,08,000 |
+| Top Product | Laptop — ₹1,50,000 |
+| Top Category | Electronics — ₹2,20,000 |
 
-### Key Insights
-- Electronics generated the highest category-wise sales.
-- Priya was the highest-value customer.
-- Laptop generated the highest product sales.
-- SQL aggregation helped identify important sales patterns.
-- JOINs were used to combine customer, product, and order information.
+### 💡 Business Insights
+- Electronics was the strongest-performing category.
+- Priya generated the highest total customer sales.
+- Laptop was the highest-performing product.
+- SQL aggregation and JOINs were used to identify key business performance metrics.
 
-### Project Files
-- `SQL_Project_1.db` — SQLite database
-- `project1_queries.sql` — SQL analysis queries
+**Tools:** SQL • JOINs • GROUP BY • HAVING • ORDER BY • LIMIT
 
----
-
-## 3. Employee Performance Analysis
-
-A practical SQL project analyzing employee performance, monthly sales, ratings, departments, and business targets to generate meaningful business insights.
-
-### Database Tables
-
-**EMPLOYEES**
-- Employee ID
-- Name
-- Department
-- City
-
-**PERFORMANCE**
-- Performance ID
-- Employee ID
-- Month
-- Sales
-- Rating
-
-**DEPARTMENTS**
-- Department
-- Target
-
-### SQL Concepts Applied
-- SELECT
-- WHERE
-- SUM()
-- AVG()
-- MAX()
-- MIN()
-- COUNT()
-- GROUP BY
-- HAVING
-- ORDER BY
-- LIMIT
-- INNER JOIN
-- Multiple-table JOINs
-- Data Filtering
-- Data Aggregation
-- Business-focused SQL Analysis
-
-### Key Analysis
-- Analyzed employee-wise sales performance
-- Calculated average, highest, and lowest sales
-- Analyzed employee ratings
-- Compared department performance with assigned targets
-- Combined employee, performance, and department data using JOINs
-- Used GROUP BY and aggregate functions for performance analysis
-- Identified high-performing employees and departments
-
-### Key Insights
-- Employee performance can be evaluated using both sales and rating metrics.
-- Department targets provide a useful benchmark for measuring performance.
-- SQL JOINs allow multiple business tables to be analyzed together.
-- Aggregate functions help convert raw performance data into meaningful metrics.
-- SQL analysis can support data-driven business decisions.
-
-### Project Files
-- `SQL 2.db` — SQLite database
-- `project2_queries.sql` — SQL analysis queries
+### 📁 Project Files
+- `README.md`
+- `project1_queries.sql`
+- `SQL_Project_1.db`
 
 ---
 
-## 4. Business & Marketing Sales Analysis
+## 03 — 👨‍💼 Employee Performance Analysis
 
-A practical SQL project focused on analyzing business sales, customer behavior, product performance, and marketing campaign effectiveness using a relational database.
+**Business Focus:** Employee productivity, departmental performance, sales, and ratings analysis.
 
-### Database Tables
-
-**CUSTOMERS**
-- Customer ID
-- Customer Name
-- City
-- Customer Type
-
-**PRODUCTS**
-- Product ID
-- Product Name
-- Category
-- Price
-
-**CAMPAIGNS**
-- Campaign ID
-- Campaign Name
-- Channel
-- Budget
-
-**SALES**
-- Sale ID
-- Customer ID
-- Product ID
-- Campaign ID
-- Quantity
-- Sales Amount
-- Sale Date
-
-### SQL Concepts Applied
-
-- SELECT
-- WHERE
-- SUM()
-- AVG()
-- MAX()
-- MIN()
-- COUNT()
-- GROUP BY
-- HAVING
-- ORDER BY
-- LIMIT
-- INNER JOIN
-- Multiple-table JOINs
-- Data Filtering
-- Data Aggregation
-- Monthly Sales Analysis
-- Business-focused SQL Analysis
-
-### Key Analysis
-
-- Analyzed overall sales performance.
-- Analyzed product-wise and category-wise sales.
-- Evaluated customer-wise and city-wise sales.
-- Compared Regular and Premium customer performance.
-- Analyzed campaign-wise and channel-wise sales.
-- Compared campaign budgets with generated sales.
-- Analyzed monthly sales performance.
-- Identified top-performing customers, products, and campaigns.
+### Analysis Performed
+- Employee-wise sales analysis
+- Department-wise sales
+- Average employee ratings
+- Monthly sales comparison
+- City-wise performance
+- Department target comparison
+- Top employee identification
 
 ### Key Results
+| Metric | Result |
+|---|---:|
+| Total Sales | ₹5,00,000 |
+| Average Sale | ₹50,000 |
+| Highest Sale | ₹70,000 |
+| Lowest Sale | ₹30,000 |
+| Performance Records | 10 |
+| Top Employee | Sneha — ₹1,35,000 |
+| Top Department | Sales — ₹2,25,000 |
+| Highest Average Rating | 4.5 |
 
-- **Total Sales:** ₹6,25,500
-- **Average Sale:** ₹31,275
-- **Highest Sale:** ₹1,00,000
-- **Lowest Sale:** ₹7,500
-- **Total Sales Transactions:** 20
-- **Total Quantity Sold:** 32
+### 💡 Business Insights
+- Sales department generated the highest total sales.
+- Sneha recorded the highest individual total sales.
+- Rahul, Arjun, and Sneha achieved the highest average rating of **4.5**.
+- February generated higher sales than January.
 
-### Key Insights
+**Tools:** SQL • JOINs • GROUP BY • HAVING • Aggregations • Business Analysis
 
-- Customer, product, and campaign data can be combined to evaluate overall business performance.
-- Customer segmentation helps compare purchasing behavior across customer types.
-- Campaign and channel analysis helps evaluate marketing performance.
-- Monthly sales analysis helps identify changes in business performance over time.
-- SQL aggregation and JOINs help transform raw business data into actionable insights.
-
-### Project Files
-
-- `SQL_Project_3.db` — SQLite database
-- `project3_queries.sql` — SQL analysis queries
-- # 🎯 Career Goal
-
-To become a **Junior Data Analyst** by building strong technical skills, completing practical projects, and developing the ability to turn raw data into meaningful business insights.
-
----
-
-## 💡 Learning Philosophy
-
-> Learn the fundamentals, practice with real data, build projects, and turn analysis into business insights.
+### 📁 Project Files
+- `SQL 2.db`
+- `project2_queries.sql`
 
 ---
 
-## 📫 Connect With Me
+## 04 — 📈 Business & Marketing Sales Analysis
 
-I am continuously learning and building projects to develop my skills as an aspiring Junior Data Analyst.
+**Business Focus:** Business sales, customer segments, products, campaigns, and marketing performance.
 
-⭐ Thanks for visiting my profile!
+### Analysis Performed
+- Overall sales analysis
+- Product and category performance
+- Customer and city analysis
+- Customer-type analysis
+- Campaign performance
+- Marketing channel analysis
+- Campaign budget vs sales
+- Monthly sales analysis
+- Top customers and products
+- Business-level performance analysis
+
+### Key Results
+| Metric | Result |
+|---|---:|
+| Total Sales | ₹6,25,500 |
+| Average Sale | ₹31,275 |
+| Highest Sale | ₹1,00,000 |
+| Lowest Sale | ₹7,500 |
+| Total Transactions | 20 |
+| Total Quantity Sold | 32 |
+
+### 💡 Business Analysis
+This project combines **sales, customer, product, and marketing data** to evaluate business performance and identify patterns across multiple dimensions.
+
+The analysis uses SQL to transform raw business data into structured insights that can support performance evaluation and decision-making.
+
+**Tools:** SQL • JOINs • GROUP BY • HAVING • Aggregations • Business Analysis
+
+### 📁 Project Files
+- `SQL_Project_3.db`
+- `project3_queries.sql`
+
+---
+
+# 🎯 Career Objective
+
+To build a strong foundation in **Data Analytics** and develop the practical skills required to contribute as a **Junior Data Analyst**, using data to identify trends, measure performance, and generate actionable business insights.
+
+---
+
+# 💡 Learning Philosophy
+
+> **Learn the concept → Practice with data → Build projects → Analyze results → Improve continuously.**
+
+I believe strong analytical skills come from **consistent practice, real-world problem solving, and project-based learning**.
+
+---
+
+# 📫 Connect
+
+**GitHub:** [Shaik Nawaz Ahmed](https://github.com/shaiknawazahmed)
+
+---
+
+⭐ **Building practical skills. Analyzing real data. Creating meaningful insights.**
