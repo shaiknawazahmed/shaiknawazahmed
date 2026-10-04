@@ -213,42 +213,6 @@ To become a **Junior Data Analyst** by building strong technical skills, complet
 
 ---
 
-# 📚 Current Focus
-
-- Advanced SQL Practice
-- Real-world SQL Projects
-- Data Analysis
-- Data Visualization
-- Business Insights
-- Portfolio Development
-
----
-
-# 🚀 Learning Journey
-
-**Excel → SQL → Power BI → Statistics → Python → Advanced Data Analytics**
-
-I am focusing on building strong fundamentals first and gradually progressing toward advanced Data Analytics skills.
-
----
-
-# 📈 Portfolio Progress
-
-| Skill / Area | Status |
-|---|---|
-| Excel Fundamentals | ✅ Completed |
-| Excel Project | ✅ Completed |
-| SQL Fundamentals | ✅ Completed |
-| SQL Project 1 | ✅ Completed |
-| SQL Project 2 | ✅ Completed |
-| GitHub Portfolio | 🚀 In Progress |
-| SQL Project 3 | 🔜 Next |
-| Power BI | 🔜 Upcoming |
-| Statistics | 🔜 Upcoming |
-| Python for Data Analysis | 🔜 Upcoming |
-
----
-
 ## 💡 Learning Philosophy
 
 > Learn the fundamentals, practice with real data, build projects, and turn analysis into business insights.
