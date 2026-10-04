@@ -1,7 +1,7 @@
 
 -- SQL PROJECT 3
 
----- Business & Marketing Sales Analysis
+-- Business & Marketing Sales Analysis
 -- ============================================
 
 
