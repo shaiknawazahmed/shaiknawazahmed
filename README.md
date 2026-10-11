@@ -212,8 +212,6 @@ The analysis uses SQL to transform raw business data into structured insights th
 
 ## 05 — 🔐 Cybersecurity Fundamentals & Practical Mini-Project
 
-**Project Focus:** Cybersecurity fundamentals, network diagnostics, common cyber threats, and essential system protection practices.
-
 ### Project Overview
 A beginner-level cybersecurity project focused on understanding security principles, identifying common threats, and exploring basic Windows-based network diagnostic tools.
 
