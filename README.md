@@ -194,7 +194,24 @@ The analysis uses SQL to transform raw business data into structured insights th
 - `project3_queries.sql`
 
 ---
+---
 
+## 05 — 🔐 Cybersecurity Fundamentals & Practical Mini-Project
+
+**Project Focus:** Cybersecurity fundamentals, network diagnostics, common cyber threats, and essential system protection practices.
+
+### Project Overview
+A beginner-level cybersecurity project focused on understanding security principles, identifying common threats, and exploring basic Windows-based network diagnostic tools.
+
+### Core Areas Covered
+- Cybersecurity Principles: CIA Triad, Authentication and Authorization
+- Networking Fundamentals: IP Addressing, DNS, Ports, HTTP and HTTPS
+- Common Cyber Threats: Viruses, Worms, Trojans, Ransomware, Spyware and Phishing
+- Security Protection: Antivirus, Firewalls, Strong Passwords and Multi-Factor Authentication
+- Safe Browsing, Software Updates and Backups
+- Ethical Hacking Fundamentals and Responsible Security Practices
+
+### Mini-Project — Windows & Network Security
 # 🎯 Career Objective
 
 To build a strong foundation in **Data Analytics** and develop the practical skills required to contribute as a **Junior Data Analyst**, using data to identify trends, measure performance, and generate actionable business insights.
