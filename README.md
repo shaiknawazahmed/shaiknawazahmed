@@ -212,6 +212,44 @@ A beginner-level cybersecurity project focused on understanding security princip
 - Ethical Hacking Fundamentals and Responsible Security Practices
 
 ### Mini-Project — Windows & Network Security
+**Project Focus:** Cybersecurity fundamentals, network diagnostics, common cyber threats, and essential system protection practices.
+
+### Practical Implementation
+- Used Windows Command Prompt for basic system and network diagnostics.
+- Inspected IP configuration and the default gateway using `ipconfig`.
+- Tested local and external network connectivity using `ping`.
+- Examined DNS resolution using `nslookup`.
+- Investigated network routes using `tracert`.
+- Practiced basic file and directory operations in Windows CMD.
+
+### Key Results
+
+| Metric | Result |
+|---|---|
+| Local Gateway Connectivity | Successful |
+| Local Gateway Packet Loss | 0% |
+| Google Connectivity | Successful |
+| Google Packet Loss | 0% |
+| DNS Lookup | Completed |
+| Network Route Inspection | Completed |
+
+### Key Learning Outcomes
+- Developed an understanding of fundamental cybersecurity principles and common threats.
+- Gained practical experience with Windows command-line tools.
+- Learned basic network configuration, DNS resolution, and connectivity diagnostics.
+- Improved awareness of antivirus protection, firewalls, secure passwords, and safe browsing.
+- Understood the importance of authorized testing and responsible security practices.
+
+### Project Deliverables
+- Cybersecurity Fundamentals completion certificate
+- Windows & Network Security mini-project
+- Basic Windows CMD and network diagnostic exercises
+
+**Tools & Concepts:** Windows CMD • `ipconfig` • `ping` • `nslookup` • `tracert` • Networking Fundamentals • Cybersecurity Awareness
+
+**Disclaimer:** Educational project focused on cybersecurity fundamentals and responsible security practices.
+
+---
 # 🎯 Career Objective
 
 To build a strong foundation in **Data Analytics** and develop the practical skills required to contribute as a **Junior Data Analyst**, using data to identify trends, measure performance, and generate actionable business insights.
