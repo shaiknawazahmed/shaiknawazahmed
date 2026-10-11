@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaik Nawaz Ahmed
 
-## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Business Analytics
+## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Data Analysis | 🔐 Cybersecurity Fundamentals
 
 > **Turning raw data into meaningful insights that support better business decisions.**
 
