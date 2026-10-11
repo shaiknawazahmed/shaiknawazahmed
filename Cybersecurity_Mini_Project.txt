@@ -1,0 +1,12 @@
+# Cybersecurity Fundamentals — Mini-Project
+
+**Project:** Windows Security Check
+
+**Objective:** To review basic security protections on my own Windows computer.
+
+1. Antivirus: Helps detect and remove malware.
+2. Firewall: Monitors and controls network traffic.
+3. App & browser protection: Helps protect against suspicious websites and downloads.
+4. Device security: Provides security features that help protect the device.
+
+**Conclusion:** I learned how antivirus, firewalls, safe browsing, and device security features help protect a computer.
