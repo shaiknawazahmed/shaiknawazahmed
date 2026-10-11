@@ -42,6 +42,20 @@ My focus is on developing strong analytical thinking and practical experience wi
 - Business Analysis Queries
 - Sales & Performance Analysis
 
+### 🔐 Cybersecurity Fundamentals
+
+- Cybersecurity Principles
+- CIA Triad
+- Authentication & Authorization
+- Networking Fundamentals
+- IP Addressing, DNS & Network Ports
+- Common Cyber Threats
+- Malware & Phishing Awareness
+- Antivirus & Firewall Basics
+- Password Security & Multi-Factor Authentication
+- Windows CMD & Network Diagnostics
+- Safe Browsing & Security Awareness
+- Ethical Hacking Fundamentals
 ---
 
 # 📂 Portfolio Projects
