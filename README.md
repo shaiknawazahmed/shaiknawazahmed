@@ -58,19 +58,14 @@ My focus is on developing strong analytical thinking and practical experience wi
 - Ethical Hacking Fundamentals
 ---
 
-🎨 Canva Graphic Design
-
-Canva Design Fundamentals
-Social Media Post Design
-YouTube Thumbnail Design
-Flyer & Poster Design
-Business Card Design
-Basic Branding Concepts
-Logo Concepts
-Typography, Color & Layout
-Visual Hierarchy & Spacing
-Digital and Print Export: PNG, JPG & PDF
-
+### 🎨 Canva Graphic Design
+- Canva design fundamentals
+- Social media post and YouTube thumbnail design
+- Flyer, poster, and business card design
+- Basic branding and logo concepts
+- Typography, color, layout, and visual hierarchy
+- Digital and print export: PNG, JPG, and PDF
+  
 # 📂 Portfolio Projects
 
 ## 01 — 📊 Excel Sales Data Analysis
@@ -274,29 +269,31 @@ A beginner-level cybersecurity project focused on understanding security princip
 
 **Disclaimer:** Educational project focused on cybersecurity fundamentals and responsible security practices.
 
-06 — 🎨 Canva Graphic Design Practice Project
-Project Overview
+### 06 — 🎨 Canva Graphic Design Practice Project
+
+**Project Overview**  
 An independent Canva learning project focused on applying visual design fundamentals across digital and print formats.
 
-Design Areas Practiced
-Social media post layout
-YouTube thumbnail design
-Flyer and poster layout
-Business card and branding concepts
-Logo concepts
-Personal final creative design
+**Design Areas Practiced**
+- Social media post layout
+- YouTube thumbnail design
+- Flyer and poster layout
+- Business card and branding concepts
+- Logo concepts
+- Personal final creative design
 
-Key Results
-Deliverable	Result
-Social media post	Clear visual hierarchy and readable messaging
-YouTube thumbnail	Strong focal point and small-size readability
-Flyer and poster	Organized promotional information
-Branding and logo concepts	Consistent color and typography choices
-Final creative design	Applied layout, spacing, color, and typography
+**Key Results**
 
-Tools & Concepts: Canva • Layout • Typography • Color Selection • Visual Hierarchy • Branding • PNG/JPG/PDF Export
+| Deliverable | Result |
+|---|---|
+| Social media post | Clear visual hierarchy and readable messaging |
+| YouTube thumbnail | Strong focal point and small-size readability |
+| Flyer and poster | Organized promotional information |
+| Branding and logo concepts | Consistent color and typography choices |
+| Final creative design | Applied layout, spacing, color, and typography |
 
-Note: This was an independent learning project.
+**Tools & Concepts:** Canva, layout, typography, color selection, visual hierarchy, branding, PNG/JPG/PDF export    
+**Note:** Independent learning project.
 
 ---
 # 🎯 Career Objective
