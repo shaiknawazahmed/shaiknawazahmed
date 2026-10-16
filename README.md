@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaik Nawaz Ahmed
 
-## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Data Analysis | 🔐 Cybersecurity Fundamentals
+## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Power BI • Data Analysis | 🔐 Cybersecurity Fundamentals
 
 > **Turning raw data into meaningful insights that support better business decisions.**
 
@@ -41,6 +41,13 @@ My focus is on developing strong analytical thinking and practical experience wi
 - Subqueries
 - Business Analysis Queries
 - Sales & Performance Analysis
+
+ ### 📊 Power BI
+- Power Query data quality checks
+- KPI cards and charts
+- Country and Year slicers
+- DAX measures: SUM, DIVIDE, CALCULATE
+- Sales trend and profit margin analysis
 
 ### 🔐 Cybersecurity Fundamentals
 
@@ -295,6 +302,29 @@ An independent Canva learning project focused on applying visual design fundamen
 **Tools & Concepts:** Canva, layout, typography, color selection, visual hierarchy, branding, PNG/JPG/PDF export    
 **Note:** Independent learning project.
 
+## 07 — Financial Sales Dashboard
+
+**Business Focus:** Sales, profit, product performance, and yearly trends using Power BI.
+
+**Tools:** Power BI Desktop • Power Query • DAX  
+**Dataset:** Financial Sample — 700 rows, 16 columns
+
+### Dashboard Features
+- KPI cards for Total Sales, Total Profit, and Profit Margin
+- Sales by Product bar chart
+- Yearly sales trend line chart
+- Country and Year slicers
+
+### Key Results
+| Metric | Result |
+|---|---:|
+| Total Sales | $118.73M |
+| Total Profit | $16.89M |
+| Profit Margin | 14.23% |
+| 2013 Sales | $26.42M |
+| 2014 Sales | $92.31M |
+
+Paseo had the highest sales among the products shown
 ---
 # 🎯 Career Objective
 
