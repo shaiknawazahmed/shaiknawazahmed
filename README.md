@@ -325,6 +325,9 @@ An independent Canva learning project focused on applying visual design fundamen
 | 2014 Sales | $92.31M |
 
 Paseo had the highest sales among the products shown
+### Project File
+[Download the Power BI Dashboard](./Shaik_Nawaz_Ahmed_Financial_Performance_Dashboard.pbix)
+
 ---
 # 🎯 Career Objective
 
