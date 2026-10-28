@@ -72,6 +72,10 @@ My focus is on developing strong analytical thinking and practical experience wi
 - Basic branding and logo concepts
 - Typography, color, layout, and visual hierarchy
 - Digital and print export: PNG, JPG, and PDF
+
+ ### 🤖 AI Automation — Foundational Learning
+
+Studied the fundamentals of AI-assisted workflows, including clear prompting, triggers and actions, and basic workflow checks
   
 # 📂 Portfolio Projects
 
@@ -327,6 +331,25 @@ An independent Canva learning project focused on applying visual design fundamen
 Paseo had the highest sales among the products shown
 ### Project File
 [Download the Power BI Dashboard](./Shaik_Nawaz_Ahmed_Financial_Performance_Dashboard.pbix)
+
+## 08 — 🤖 AI Automation Fundamentals & Form Response Tracking
+
+**Project Focus:** Practicing clear AI instructions and testing an automated Google Forms-to-Sheets response workflow.
+
+### Practical Implementation
+- Created and published a Google Form for collecting applications.
+- Linked form responses to a Google Sheet.
+- Submitted a test response and checked the corresponding spreadsheet row.
+
+### Key Results
+| Metric | Result |
+|---|---|
+| Form publishing | Successful |
+| Test response submission | Successful |
+| Response capture in Google Sheets | Verified |
+| Response fields | Recorded in corresponding columns |
+
+**Tools & Concepts:** Google Forms • Google Sheets • Prompting Fundamentals • Workflow Triggers and Actions
 
 ---
 # 🎯 Career Objective
