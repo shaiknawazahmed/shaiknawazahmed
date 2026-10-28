@@ -350,7 +350,9 @@ Paseo had the highest sales among the products shown
 | Response fields | Recorded in corresponding columns |
 
 **Tools & Concepts:** Google Forms • Google Sheets • Prompting Fundamentals • Workflow Triggers and Actions
+[Download the Excel tracker](./AI_Automation_Response_Tracker.xlsx)
 
+![Google Forms Response Tracker](./AI_Automation_Response_Tracker.png)
 ---
 # 🎯 Career Objective
 
