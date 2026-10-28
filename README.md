@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaik Nawaz Ahmed
 
-## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Power BI • Data Analysis | 🔐 Cybersecurity Fundamentals
+## 🚀 Aspiring Junior Data Analyst | Excel • SQL • Power BI | 🤖 AI Automation Fundamentals | 🔐 Cybersecurity Fundamentals | 🎨 Canva Graphic Design
 
 > **Turning raw data into meaningful insights that support better business decisions.**
 
