@@ -334,26 +334,27 @@ Paseo had the highest sales among the products shown
 
 ## 08 — 🤖 AI Automation Fundamentals & Form Response Tracking
 
-**Project Focus:** Practicing clear AI instructions and testing an automated Google Forms-to-Sheets response workflow.
+**Project Focus:** Practiced clear AI instructions and tested Google Forms response tracking in Google Sheets.
 
 ### Practical Implementation
-- Created and published a Google Form for collecting applications.
+- Created and published a Google Form.
 - Linked form responses to a Google Sheet.
-- Submitted a test response and checked the corresponding spreadsheet row.
+- Submitted a test response and verified the recorded fields.
 
 ### Key Results
 | Metric | Result |
 |---|---|
-| Form publishing | Successful |
 | Test response submission | Successful |
 | Response capture in Google Sheets | Verified |
 | Response fields | Recorded in corresponding columns |
 
 **Tools & Concepts:** Google Forms • Google Sheets • Prompting Fundamentals • Workflow Triggers and Actions
-[Download the Excel tracker](./AI_Automation_Response_Tracker.xlsx)
+
+### Project Files
+[Download the sample response tracker](./AI_Automation_Response_Tracker.xlsx)
 
 ![Google Forms Response Tracker](./AI_Automation_Response_Tracker.png)
----
+
 # 🎯 Career Objective
 
 To build a strong foundation in **Data Analytics** and develop the practical skills required to contribute as a **Junior Data Analyst**, using data to identify trends, measure performance, and generate actionable business insights.
